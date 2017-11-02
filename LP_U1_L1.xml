@@ -1,16 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lessons banner="L4_U1_B1">
-  <lesson type="standard" narrationFile="L4_U1_1">
-    <page file="LP_U1_1(0)" delay="0" />
-    <page file="LP_U1_1(1)" delay="22"></page>
+<lessons banner="LP_U1_B1">
+  <lesson type="standard" narrationFile="Prep_U1_L1_1">
+    <page file="Prep_U1_L1_1(0)" delay="0" />
+    <page file="Prep_U1_L1_1(1)" delay="2"></page>
+    <page file="Prep_U1_L1_1(2)" delay="8"></page>
+    <page file="Prep_U1_L1_1(3)" delay="17"></page>
   </lesson>
-  <lesson type="standard" narrationFile="L4_U1_2">
-    <page file="LP_U1_2(0)" delay="0" />
-    <page file="LP_U1_2(1)" delay="6"></page>
+  <lesson type="standard" narrationFile="Prep_U1_L1_2">
+    <page file="Prep_U1_L1_2(0)" delay="0" />
+    <page file="Prep_U1_L1_2(1)" delay="3"></page>
+    <page file="Prep_U1_L1_2(2)" delay="7"></page>
+    <page file="Prep_U1_L1_2(3)" delay="9"></page>
+    <page file="Prep_U1_L1_2(4)" delay="13"></page>
+    <page file="Prep_U1_L1_2(5)" delay="16"></page>
+    <page file="Prep_U1_L1_2(6)" delay="19"></page>
   </lesson>
-  <lesson type="standard" narrationFile="L4_U1_3">
-    <page file="LP_U1_3(0)" delay="0" />
-    <page file="LP_U1_3(1)" delay="4" />
-   </page>
+  <lesson type="standard" narrationFile="Prep_U1_L1_3">
+    <page file="Prep_U1_L1_3(0)" delay="0"></page>
+    <page file="Prep_U1_L1_3(1)" delay="2"></page>
+    <page file="Prep_U1_L1_3(2)" delay="4"></page>
+    <page file="Prep_U1_L1_3(3)" delay="6" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L1_4">
+    <page file="Prep_U1_L1_4(0)" delay="0"></page>
+    <page file="Prep_U1_L1_4(1)" delay="3"></page>
+    <page file="Prep_U1_L1_4(2)" delay="6"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L1_5">
+    <page file="Prep_U1_L1_5(0)" delay="0"></page>
+    <page file="Prep_U1_L1_5(1)" delay="3"></page>
+    <page file="Prep_U1_L1_5(2)" delay="6"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L1_6">
+    <page file="Prep_U1_L1_6(0)" delay="0"></page>
+    <page file="Prep_U1_L1_6(1)" delay="2"></page>
+    <page file="Prep_U1_L1_6(2)" delay="6"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L1_7">
+    <page file="Prep_U1_L1_7(0)" delay="0"></page>
+    <page file="Prep_U1_L1_7(1)" delay="1"></page>
+    <page file="Prep_U1_L1_7(2)" delay="2"></page>
+    <page file="Prep_U1_L1_7(3)" delay="3"></page>
+    <page file="Prep_U1_L1_7(4)" delay="5"></page>
+    <page file="Prep_U1_L1_7(5)" delay="9"></page>
+    <page file="Prep_U1_L1_7(6)" delay="10"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L1_8">
+    <page file="Prep_U1_L1_8(0)" delay="0"></page>
+    <page file="Prep_U1_L1_8(1)" delay="2"></page>
+    <page file="Prep_U1_L1_8(2)" delay="4"></page>
+    <page file="Prep_U1_L1_8(3)" delay="7"></page>
   </lesson>
 </lessons>
