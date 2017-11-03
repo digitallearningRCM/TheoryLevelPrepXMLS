@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="LP_U1_B3">
+  <lesson type="standard" narrationFile="Prep_U1_L3_1">
+    <page file="Prep_U1_L3_1(0)" delay="0" />
+    <page file="Prep_U1_L3_1(1)" delay="4"></page>
+    <page file="Prep_U1_L3_1(2)" delay="8"></page>
+    <page file="Prep_U1_L3_1(3)" delay="10"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L3_2">
+    <page file="Prep_U1_L3_2(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L3_3">
+    <page file="Prep_U1_L3_3(0)" delay="0"></page>
+    <page file="Prep_U1_L3_3(1)" delay="2"></page>
+    <page file="Prep_U1_L3_3(2)" delay="4"></page>
+    <page file="Prep_U1_L3_3(3)" delay="6"></page>
+    <page file="Prep_U1_L3_3(4)" delay="7"></page>
+    <page file="Prep_U1_L3_3(5)" delay="9"></page>
+    <page file="Prep_U1_L3_3(6)" delay="10"></page>
+  </lesson>
+</lessons>

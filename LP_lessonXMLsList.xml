@@ -2,8 +2,12 @@
 <level>
   <!--// for pitch tent -->
   <unit>
-    <lesson xmlFile="LP_U1_L0"></lesson>
     <lesson xmlFile="LP_U1_L1"></lesson>
+    <lesson xmlFile="LP_U1_L2"></lesson>
+    <lesson xmlFile="LP_U1_L3"></lesson>
+    <lesson xmlFile="LP_U1_L4"></lesson>
+    <lesson xmlFile="LP_U1_L5"></lesson>
+    <lesson xmlFile="LP_U1_L6"></lesson>
   </unit>
   <!--// for rhythm-->
   <unit>

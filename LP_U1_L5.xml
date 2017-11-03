@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="LP_U1_B5">
+  <lesson type="standard" narrationFile="Prep_U1_L5_1">
+    <page file="Prep_U1_L5_1(1)" delay="0"></page>
+    <page file="Prep_U1_L5_1(2)" delay="1"></page>
+    <page file="Prep_U1_L5_1(3)" delay="2"></page>
+    <page file="Prep_U1_L5_1(4)" delay="3"></page>
+    <page file="Prep_U1_L5_1(5)" delay="4"></page>
+    <page file="Prep_U1_L5_1(6)" delay="5"></page>
+    <page file="Prep_U1_L5_1(7)" delay="6"></page>
+    <page file="Prep_U1_L5_1(8)" delay="7"></page>
+    <page file="Prep_U1_L5_1(9)" delay="8"></page>
+    <page file="Prep_U1_L5_1(10)" delay="9"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L5_2">
+    <page file="Prep_U1_L5_2(0)" delay="0"></page>
+    <page file="Prep_U1_L5_2(1)" delay="8"></page>
+    <page file="Prep_U1_L5_2(2)" delay="9"></page>
+    <page file="Prep_U1_L5_2(3)" delay="10"></page>
+    <page file="Prep_U1_L5_2(4)" delay="13"></page>
+    <page file="Prep_U1_L5_2(5)" delay="17"></page>
+    <page file="Prep_U1_L5_2(6)" delay="18" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L5_3">
+    <page file="Prep_U1_L5_3(0)" delay="0"></page>
+    <page file="Prep_U1_L5_3(1)" delay="2"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L5_4">
+    <page file="Prep_U1_L5_4(0)" delay="0"></page>
+    <page file="Prep_U1_L5_4(1)" delay="4"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U1_L5_5">
+    <page file="Prep_U1_L5_5(0)" delay="0"></page>
+    <page file="Prep_U1_L5_5(1)" delay="4"></page>
+    <page file="Prep_U1_L5_5(2)" delay="5"></page>
+    <page file="Prep_U1_L5_5(3)" delay="6"></page>
+    <page file="Prep_U1_L5_5(4)" delay="7"></page>
+    <page file="Prep_U1_L5_5(5)" delay="8"></page>
+    <page file="Prep_U1_L5_5(6)" delay="9"></page>
+    <page file="Prep_U1_L5_5(7)" delay="10"></page>
+    <page file="Prep_U1_L5_5(8)" delay="11"></page>
+    <page file="Prep_U1_L5_5(9)" delay="12"></page>
+    <page file="Prep_U1_L5_5(10)" delay="13"></page>
+    <page file="Prep_U1_L5_5(11)" delay="14"></page>
+    <page file="Prep_U1_L5_5(12)" delay="16"></page>
+    <page file="Prep_U1_L5_5(13)" delay="17"></page>
+  </lesson>
+</lessons>
