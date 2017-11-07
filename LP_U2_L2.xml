@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="LP_U2_B2">
+  <lesson type="standard" narrationFile="Prep_U2_L2_1">
+    <page file="Prep_U2_L2_1(0)" delay="0" />
+    <page file="Prep_U2_L2_1(1)" delay="2"></page>
+    <page file="Prep_U2_L2_1(2)" delay="8"></page>
+    <page file="Prep_U2_L2_1(3)" delay="17"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L2_2">
+    <page file="Prep_U2_L2_2(0)" delay="0"></page>
+    <page file="Prep_U2_L2_2(1)" delay="0"></page>
+    <page file="Prep_U2_L2_2(2)" delay="0"></page>
+    <page file="Prep_U2_L2_2(3)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L2_3">
+    <page file="Prep_U2_L2_3(0)" delay="0"></page>
+    <page file="Prep_U2_L2_3(1)" delay="2"></page>
+    <page file="Prep_U2_L2_3(2)" delay="4"></page>
+    <page file="Prep_U2_L2_3(3)" delay="6" />
+  </lesson>
+  <lesson type="Interactive" narrationFile="Prep_U2_L2_4"></lesson>
+  <lesson type="Interactive" narrationFile="Prep_U2_L2_5">
+    <!--Note - there are 3 standard pages then the interactive page is last-->
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L2_6">
+    <page file="Prep_U2_L2_6(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L2_7">
+    <page file="Prep_U2_L2_7(0)" delay="0"></page>
+    <page file="Prep_U2_L2_7(1)" delay="0"></page>
+    <page file="Prep_U2_L2_7(2)" delay="0"></page>
+  </lesson>
+  <lesson type="Interactive" narrationFile="Prep_U2_L2_8"></lesson>
+</lessons>
