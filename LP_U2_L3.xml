@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="LP_U2_B3">
-  <lesson type="standard" narrationFile="Prep_U2_L3_1">
+  <lesson type="standard" narrationFile="PREP_U2_L3_1">
     <page file="Prep_U2_L3_1(0)" delay="0" />
     <page file="Prep_U2_L3_1(1)" delay="1"></page>
     <page file="Prep_U2_L3_1(2)" delay="4"></page>
   </lesson>
-  <lesson type="interactive" narrationFile="Prep_U2_L3_2"></lesson>
-  <lesson type="interactive" narrationFile="Prep_U2_L3_3"></lesson>
-  <lesson type="interactive" narrationFile="Prep_U2_L3_4"></lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L3_5">
+  <lesson type="interactive" narrationFile="PREP_U2_L3_2"></lesson>
+  <lesson type="interactive" narrationFile="PREP_U2_L3_3"></lesson>
+  <lesson type="interactive" narrationFile="PREP_U2_L3_4"></lesson>
+  <lesson type="standard" narrationFile="PREP_U2_L3_5">
     <page file="Prep_U2_L3_5(0)" delay="4"></page>
   </lesson>
 </lessons>

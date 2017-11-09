@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="LP_U2_B1">
-  <lesson type="standard" narrationFile="Prep_U2_L1_1">
+  <lesson type="standard" narrationFile="PREP_U2_L1_1">
     <page file="Prep_U2_L1_1(0)" delay="0" />
     <page file="Prep_U2_L1_1(1)" delay="3"></page>
     <page file="Prep_U2_L1_1(2)" delay="4"></page>
@@ -8,38 +8,38 @@
     <page file="Prep_U2_L1_1(4)" delay="9"></page>
     <page file="Prep_U2_L1_1(5)" delay="11"></page>
   </lesson>
-  <lesson type="Interactive" narrationFile="Prep_U2_L1_2">
+  <lesson type="Interactive" narrationFile="PREP_U2_L1_2">
     <!--(Int 1 and Int2)-->
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_3">
+  <lesson type="standard" narrationFile="PREP_U2_L1_3">
     <page file="Prep_U2_L1_3(0)" delay="0"></page>
     <page file="Prep_U2_L1_3(1)" delay="4"></page>
     <page file="Prep_U2_L1_3(2)" delay="6"></page>
     <page file="Prep_U2_L1_3(3)" delay="10" />
   </lesson>
-  <lesson type="Interactive" narrationFile="Prep_U2_L1_4"></lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_5">
+  <lesson type="Interactive" narrationFile="PREP_U2_L1_4"></lesson>
+  <lesson type="standard" narrationFile="PREP_U2_L1_5">
     <page file="Prep_U2_L1_5(0)" delay="0"></page>
   </lesson>
-  <lesson type="Interactive" narrationFile="Prep_U2_L1_6"></lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_7">
+  <lesson type="Interactive" narrationFile="PREP_U2_L1_6"></lesson>
+  <lesson type="standard" narrationFile="PREP_U2_L1_7">
     <page file="Prep_U2_L1_7(0)" delay="0"></page>
   </lesson>
-  <lesson type="Interactive" narrationFile="Prep_U2_L1_8"></lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_9">
+  <lesson type="Interactive" narrationFile="PREP_U2_L1_8"></lesson>
+  <lesson type="standard" narrationFile="PREP_U2_L1_9">
     <page file="Prep_U2_L1_9(0)" delay="0"></page>
   </lesson>
-  <lesson type="Interactive" narrationFile="Prep_U2_L1_10"></lesson>
+  <lesson type="Interactive" narrationFile="PREP_U2_L1_10"></lesson>
   <lesson type="standard" narrationFile="Prep_U2_L1_11">
     <page file="Prep_U2_L1_11(0)" delay="0"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_12">
+  <lesson type="standard" narrationFile="PREP_U2_L1_12">
     <page file="Prep_U2_L1_12(0)" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="Prep_U2_L1_13">
     <page file="Prep_U2_L1_13(0)" delay="0"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U2_L1_14">
+  <lesson type="standard" narrationFile="PREP_U2_L1_14">
     <page file="Prep_U2_L1_14(0)" delay="0"></page>
   </lesson>
 </lessons>
