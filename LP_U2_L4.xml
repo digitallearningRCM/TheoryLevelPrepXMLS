@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="LP_U2_B4">
+  <lesson type="standard" narrationFile="Prep_U2_L4_1">
+    <page file="Prep_U2_L4_1(0)" delay="0" />
+    <page file="Prep_U2_L4_1(1)" delay="7"></page>
+    <page file="Prep_U2_L4_1(2)" delay="9"></page>
+    <page file="Prep_U2_L4_1(3)" delay="12"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_2">
+    <page file="Prep_U2_L4_2(0)" delay="0" />
+    <page file="Prep_U2_L4_2(1)" delay="3"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_3">
+    <page file="Prep_U2_L4_3(0)" delay="0" />
+    <page file="Prep_U2_L4_3(1)" delay="3"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_4">
+    <page file="Prep_U2_L4_4(0)" delay="0" />
+    <page file="Prep_U2_L4_4(1)" delay="3"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_5">
+    <page file="Prep_U2_L4_5(0)" delay="0" />
+    <page file="Prep_U2_L4_5(1)" delay="3"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_6">
+    <page file="Prep_U2_L4_6(0)" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_7">
+    <page file="Prep_U2_L4_7(0)" delay="0" />
+    <page file="Prep_U2_L4_7(1)" delay="3"></page>
+    <page file="Prep_U2_L4_7(2)" delay="7"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_8">
+    <page file="Prep_U2_L4_8(0)" delay="0"></page>
+    <page file="Prep_U2_L4_8(1)" delay="2"></page>
+    <page file="Prep_U2_L4_8(2)" delay="3" />
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_9">
+    <page file="Prep_U2_L4_9(0)" delay="0"></page>
+    <page file="Prep_U2_L4_9(1)" delay="2"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_10">
+    <page file="Prep_U2_L4_10(0)" delay="0"></page>
+    <page file="Prep_U2_L4_10(1)" delay="2"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_11">
+    <page file="Prep_U2_L4_11(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_12">
+    <page file="Prep_U2_L4_12(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_13">
+    <page file="Prep_U2_L4_13(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_14">
+    <page file="Prep_U2_L4_14(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_15">
+    <page file="Prep_U2_L4_15(0)" delay="0"></page>
+  </lesson>
+  <lesson type="interactive" narrationFile="Prep_U2_L4_16">
+    <!--There are 6 interactive screens-->
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_17">
+    <page file="Prep_U2_L4_17(0)" delay="0"></page>
+  </lesson>
+  <lesson type="interactive" narrationFile="Prep_U2_L4_19"></lesson>
+  <lesson type="interactive" narrationFile="Prep_U2_L4_19"></lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_20">
+    <page file="Prep_U2_L4_20(0)" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="Prep_U2_L4_21">
+    <page file="Prep_U2_L4_21(0)" delay="0"></page>
+  </lesson>
+</lessons>

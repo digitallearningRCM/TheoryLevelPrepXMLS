@@ -2,20 +2,20 @@
 <lessons banner="LP_U2_B1">
   <lesson type="standard" narrationFile="Prep_U2_L1_1">
     <page file="Prep_U2_L1_1(0)" delay="0" />
-    <page file="Prep_U2_L1_1(1)" delay="2"></page>
-    <page file="Prep_U2_L1_1(2)" delay="8"></page>
-    <page file="Prep_U2_L1_1(3)" delay="17"></page>
-    <page file="Prep_U2_L1_1(4)" delay="17"></page>
-    <page file="Prep_U2_L1_1(5)" delay="17"></page>
+    <page file="Prep_U2_L1_1(1)" delay="3"></page>
+    <page file="Prep_U2_L1_1(2)" delay="4"></page>
+    <page file="Prep_U2_L1_1(3)" delay="6"></page>
+    <page file="Prep_U2_L1_1(4)" delay="9"></page>
+    <page file="Prep_U2_L1_1(5)" delay="11"></page>
   </lesson>
   <lesson type="Interactive" narrationFile="Prep_U2_L1_2">
     <!--(Int 1 and Int2)-->
   </lesson>
   <lesson type="standard" narrationFile="Prep_U2_L1_3">
     <page file="Prep_U2_L1_3(0)" delay="0"></page>
-    <page file="Prep_U2_L1_3(1)" delay="2"></page>
-    <page file="Prep_U2_L1_3(2)" delay="4"></page>
-    <page file="Prep_U2_L1_3(3)" delay="6" />
+    <page file="Prep_U2_L1_3(1)" delay="4"></page>
+    <page file="Prep_U2_L1_3(2)" delay="6"></page>
+    <page file="Prep_U2_L1_3(3)" delay="10" />
   </lesson>
   <lesson type="Interactive" narrationFile="Prep_U2_L1_4"></lesson>
   <lesson type="standard" narrationFile="Prep_U2_L1_5">
