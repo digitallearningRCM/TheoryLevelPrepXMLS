@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="LP_U2_B4">
   <lesson type="standard" narrationFile="PREP_U2_L4_1">
     <page file="Prep_U2_L4_1(0)" delay="0" />
@@ -64,7 +64,7 @@
   <lesson type="standard" narrationFile="PREP_U2_L4_17">
     <page file="Prep_U2_L4_17(0)" delay="0"></page>
   </lesson>
-  <lesson type="interactive" narrationFile="PREP_U2_L4_19"></lesson>
+  <lesson type="interactive" narrationFile="PREP_U2_L4_18"></lesson>
   <lesson type="interactive" narrationFile="PREP_U2_L4_19"></lesson>
   <lesson type="standard" narrationFile="PREP_U2_L4_20">
     <page file="Prep_U2_L4_20(0)" delay="0"></page>
