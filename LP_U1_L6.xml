@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="LP_U1_B6">
-  <lesson type="standard" narrationFile="Prep_U1_L6_1">
+  <lesson type="standard" narrationFile="PREP_U1_L6_1">
     <page file="Prep_U1_L6_1(1)" delay="0"></page>
     <page file="Prep_U1_L6_1(2)" delay="2"></page>
     <page file="Prep_U1_L6_1(3)" delay="4"></page>
@@ -8,17 +8,17 @@
     <page file="Prep_U1_L6_1(5)" delay="13"></page>
     <page file="Prep_U1_L6_1(6)" delay="15"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L6_2">
+  <lesson type="standard" narrationFile="PREP_U1_L6_2">
     <page file="Prep_U1_L6_2(0)" delay="0"></page>
     <page file="Prep_U1_L6_2(1)" delay="2"></page>
     <page file="Prep_U1_L6_2(2)" delay="5"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L6_3">
+  <lesson type="standard" narrationFile="PREP_U1_L6_3">
     <page file="Prep_U1_L6_3(0)" delay="0"></page>
     <page file="Prep_U1_L6_3(1)" delay="2"></page>
     <page file="Prep_U1_L6_3(2)" delay="4"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L6_4">
+  <lesson type="standard" narrationFile="PREP_U1_L6_4">
     <page file="Prep_U1_L6_4(0)" delay="0"></page>
     <page file="Prep_U1_L6_4(1)" delay="3"></page>
     <page file="Prep_U1_L6_4(2)" delay="11"></page>
