@@ -13,7 +13,7 @@
     <page file="Prep_U1_L2_2(3)" delay="6"></page>
     <page file="Prep_U1_L2_2(4)" delay="7"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L2_3">
+  <lesson type="standard" narrationFile="PREP_U1_L2_3">
     <page file="Prep_U1_L2_3(0)" delay="0"></page>
     <page file="Prep_U1_L2_3(1)" delay="1"></page>
     <page file="Prep_U1_L2_3(2)" delay="2"></page>
@@ -23,7 +23,7 @@
     <page file="Prep_U1_L2_3(6)" delay="8"></page>
     <page file="Prep_U1_L2_3(7)" delay="10" />
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L2_4">
+  <lesson type="standard" narrationFile="PREP_U1_L2_4">
     <page file="Prep_U1_L2_4(0)" delay="0"></page>
     <page file="Prep_U1_L2_4(1)" delay="1"></page>
     <page file="Prep_U1_L2_4(2)" delay="3"></page>

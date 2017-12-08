@@ -45,7 +45,7 @@
     <page file="Prep_U1_L1_7(5)" delay="9"></page>
     <page file="Prep_U1_L1_7(6)" delay="10"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L1_8">
+  <lesson type="standard" narrationFile="PREP_U1_L1_8">
     <page file="Prep_U1_L1_8(0)" delay="0"></page>
     <page file="Prep_U1_L1_8(1)" delay="2"></page>
     <page file="Prep_U1_L1_8(2)" delay="4"></page>
