@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<lessons banner="LP_U2_B3">
+<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="LP_U2_B2">
   <lesson type="standard" narrationFile="PREP_U2_L3_1">
     <page file="Prep_U2_L3_1(0)" delay="0" />
     <page file="Prep_U2_L3_1(1)" delay="1"></page>
