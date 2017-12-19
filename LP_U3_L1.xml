@@ -39,14 +39,14 @@
   <lesson type="standard" narrationFile="PREP_U3_L1_5">
     <page file="Prep_U3_L1_5(0)" delay="0" />
     <page file="Prep_U3_L1_5(1)" delay="4"></page>
-    <page file="Prep_U3_L1_5(2)" delay="10"></page>
-    <page file="Prep_U3_L1_5(3)" delay="11"></page>
-    <page file="Prep_U3_L1_5(4)" delay="12"></page>
-    <page file="Prep_U3_L1_5(5)" delay="13"></page>
-    <page file="Prep_U3_L1_5(6)" delay="14"></page>
-    <page file="Prep_U3_L1_5(7)" delay="15"></page>
-    <page file="Prep_U3_L1_5(8)" delay="16"></page>
-    <page file="Prep_U3_L1_5(9)" delay="17"></page>
+    <page file="Prep_U3_L1_5(2)" delay="5"></page>
+    <page file="Prep_U3_L1_5(3)" delay="6"></page>
+    <page file="Prep_U3_L1_5(4)" delay="7"></page>
+    <page file="Prep_U3_L1_5(5)" delay="8"></page>
+    <page file="Prep_U3_L1_5(6)" delay="9"></page>
+    <page file="Prep_U3_L1_5(7)" delay="10"></page>
+    <page file="Prep_U3_L1_5(8)" delay="11"></page>
+    <page file="Prep_U3_L1_5(9)" delay="12"></page>
   </lesson>
   <lesson type="standard" narrationFile="PREP_U3_L1_6">
     <page file="Prep_U3_L1_6(0)" delay="0"></page>
