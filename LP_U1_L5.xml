@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="LP_U1_B5">
   <lesson type="standard" narrationFile="PREP_U1_L5_1">
     <page file="Prep_U1_L5_1(1)" delay="0"></page>
@@ -24,7 +24,7 @@
     <page file="Prep_U1_L5_3(0)" delay="0"></page>
     <page file="Prep_U1_L5_3(1)" delay="2"></page>
   </lesson>
-  <lesson type="standard" narrationFile="Prep_U1_L5_4">
+  <lesson type="standard" narrationFile="PREP_U1_L5_4">
     <page file="Prep_U1_L5_4(0)" delay="0"></page>
     <page file="Prep_U1_L5_4(1)" delay="4"></page>
   </lesson>
