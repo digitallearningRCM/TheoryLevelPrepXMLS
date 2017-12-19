@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card graphic="T1_U7_2(5)" definition="smooth"></card>
+  <card graphic="T1_U7_6-7(1)" definition="a stressed note"></card>
+  <card graphic="T1_U7_6-7(2)" definition="detached"></card>
+  <card graphic="T1_U7_6-7(4)" definition="play the notes smoothly"></card>
+  <card graphic="T1_U7_8-9(1)" definition="becoming louder"></card>
+  <card graphic="T1_U7_8-9(2)" definition="becoming softer"></card>
+  <card graphic="T1_U7_10-11(1)" definition="loud"></card>
+  <card graphic="T1_U7_10-11(2)" definition="moderatly loud"></card>
+  <card graphic="T1_U7_10-11(3)" definition="soft"></card>
+  <card graphic="T1_U7_10-11(4)" definition="moderatley soft"></card>
+</cards>
