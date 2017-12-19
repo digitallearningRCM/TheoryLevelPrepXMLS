@@ -2,13 +2,9 @@
 <lessons banner="LP_U4_B2">
   <lesson type="standard" narrationFile="PREP_U4_L2_1">
     <page file="Prep_U4_L2_1(0)" delay="0" />
-    <page file="Prep_U4_L2_1(1)" delay="4"></page>
-    <page file="Prep_U4_L2_1(1)" delay="5"></page>
     <page file="Prep_U4_L2_1(1)" delay="6"></page>
-    <page file="Prep_U4_L2_1(1)" delay="7"></page>
-    <page file="Prep_U4_L2_1(1)" delay="13"></page>
-    <page file="Prep_U4_L2_1(1)" delay="15"></page>
-    <page file="Prep_U4_L2_1(1)" delay="17"></page>
+    <page file="Prep_U4_L2_1(2)" delay="13"></page>
+    <page file="Prep_U4_L2_1(3)" delay="15"></page>
   </lesson>
   <lesson type="standard" narrationFile="PREP_U4_L2_2">
     <page file="Prep_U4_L2_2(0)" delay="0" />
@@ -27,9 +23,8 @@
   </lesson>
   <lesson type="standard" narrationFile="PREP_U4_L2_4">
     <page file="Prep_U4_L2_4(0)" delay="0" />
-    <page file="Prep_U4_L2_4(1)" delay="4"></page>
-    <page file="Prep_U4_L2_4(2)" delay="5"></page>
-    <page file="Prep_U4_L2_4(3)" delay="6"></page>
+    <page file="Prep_U4_L2_4(1)" delay="5"></page>
+    <page file="Prep_U4_L2_4(2)" delay="6"></page>
   </lesson>
   <lesson type="standard" narrationFile="PREP_U4_L2_5">
     <page file="Prep_U4_L2_5(0)" delay="0" />
