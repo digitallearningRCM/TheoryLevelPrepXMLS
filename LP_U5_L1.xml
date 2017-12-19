@@ -15,12 +15,14 @@
   <lesson type="standard" narrationFile="PREP_U5_L1_4">
     <page file="Prep_U5_L1_4(0)" delay="0" />
     <page file="Prep_U5_L1_4(1)" delay="6"></page>
+    <page file="Prep_U5_L1_4(2)" delay="8"></page>
+    <page file="Prep_U5_L1_4(3)" delay="11"></page>
+    <page file="Prep_U5_L1_4(4)" delay="12"></page>
   </lesson>
   <lesson type="standard" narrationFile="PREP_U5_L1_5">
     <page file="Prep_U5_L1_5(0)" delay="0" />
   </lesson>
   <lesson type="standard" narrationFile="PREP_U5_L1_6">
     <page file="Prep_U5_L1_6(0)" delay="0"></page>
-    <page file="Prep_U5_L1_6(1)" delay="5"></page>
   </lesson>
 </lessons>
